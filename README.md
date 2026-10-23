@@ -19,7 +19,7 @@ With **10+ years** in research, data validation and quality assurance, I now rat
 - 🤖 Evaluating and comparing LLM responses for accuracy, helpfulness and safety; writing prompts and feedback
 - 🏷️ Annotating text, image and audio data for machine-learning training sets
 - ✅ Running QA audits, training new team members and keeping data consistent at scale
-- 🎓 MCA (Savitribai Phule Pune University) · IBM-certified in Generative AI prompt engineering
+- 🎓 MCA (Master of Computer Applications) · Certified in Generative AI prompt engineering
 
 ### 🛠️ Skills & tools
 
@@ -48,8 +48,8 @@ With **10+ years** in research, data validation and quality assurance, I now rat
 
 ### 📜 Certifications
 
-- **Generative AI: Prompt Engineering Basics**: IBM via Coursera (2023)
-- **Oracle DBA & PL/SQL**: Karrox Technology (2016)
+- **Generative AI: Prompt Engineering Basics** (2023)
+- **Oracle DBA & PL/SQL** (2016)
 
 ### 📫 Let's connect
 
