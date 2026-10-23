@@ -52,6 +52,9 @@ I have **10+ years** in research, data validation and quality assurance. Today I
 | ✅ [**data-quality-checker**](https://github.com/affo-momin/data-quality-checker) | Rule-based CSV validation: required, unique, regex, allowed values, ranges | Python · JSON |
 | 🗄️ [**sql-data-validation**](https://github.com/affo-momin/sql-data-validation) | SQL data-quality checks with a PASS/FAIL runner | SQL · SQLite |
 | 🧩 [**prompt-engineering-playbook**](https://github.com/affo-momin/prompt-engineering-playbook) | Prompt patterns, rewrites & an LLM evaluation checklist | Markdown |
+| 🎯 [**qa-audit-sampler**](https://github.com/affo-momin/qa-audit-sampler) | Stratified, reproducible QA audit samples by annotator & label | Python CLI |
+| 📊 [**annotator-productivity-report**](https://github.com/affo-momin/annotator-productivity-report) | Tasks/hour, handling time & QA pass rate, with check-in flags | Python CLI |
+| 📝 [**guideline-quiz**](https://github.com/affo-momin/guideline-quiz) | Terminal quiz that trains raters on guideline edge cases | Python CLI · JSON |
 
 ## 🛠️ Skills & tools
 
